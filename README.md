@@ -1,2 +1,2 @@
-# Fisio_LP
-Full-Stack para negocio de Fisioterapia
+# Fisio_webapp
+Frontend para negocio de Fisioterapia
